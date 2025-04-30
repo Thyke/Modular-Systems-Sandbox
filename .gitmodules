@@ -1,0 +1,18 @@
+[submodule "Plugins/EnhancedTickSystem"]
+	path = Plugins/EnhancedTickSystem
+	url = https://github.com/Thyke/EnhancedTick
+[submodule "Plugins/RuntimeVertexPaint"]
+	path = Plugins/RuntimeVertexPaint
+	url = https://github.com/Thyke/RuntimeVertexPaint
+[submodule "Plugins/AttributeSystem"]
+	path = Plugins/AttributeSystem
+	url = https://github.com/Thyke/AttributeSystem
+[submodule "Plugins/ObjectRecycler"]
+	path = Plugins/ObjectRecycler
+	url = https://github.com/Thyke/ObjectRecycler
+[submodule "Plugins/LODManager"]
+	path = Plugins/LODManager
+	url = https://github.com/Thyke/LODManager
+[submodule "Plugins/Dismemberment"]
+	path = Plugins/Dismemberment
+	url = https://github.com/Thyke/Dismemberment
