@@ -17,6 +17,18 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "AttributeSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "LODManager",
+			"Enabled": true
+		},
+		{
+			"Name": "Dismemberment",
+			"Enabled": true
 		}
 	]
 }
